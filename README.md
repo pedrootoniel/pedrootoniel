@@ -31,8 +31,9 @@
 
 ## Estatísticas
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/PedroOtoniel/github-readme-stats)
+![Felipe Sales's github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
 ## Interesses
 
