@@ -35,16 +35,11 @@
 
 <p align="justify">Busco oportunidade em Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar os que valorizam o conhecimento. Reconhecendo a importância dos principios ágeis e da melhoria continua. Ideias só se multiplicam com colaboração e dedicação!</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PedroOtoniel.PedroOtoniel)
-
    </div>
 
-<br/>
-<br/>
-<br/>
-
 <div align="center">
-
+	
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PedroOtoniel.PedroOtoniel)
 <img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
 
 </div>
