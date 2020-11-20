@@ -4,16 +4,11 @@
 <p align="center"><strong>Iniciei na tecnologia com c/++ e Assembly.</strong></p>
 
 
-<h1 align="center">CONTATO</h1> 
+<h1 align="center">CONTATOS</h1> 
 
-<p align="center">
-	
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Otoniel-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopgss/)](https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@pedrootoniel.tech)](mailto:contato@pedrootoniel.tech)
 [![Url Badge](https://img.shields.io/badge/-pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=https://www.pedrootoniel.tech/)](https://www.pedrootoniel.tech/)
-
-</p>
-
 
 <h1 align="center">EM DESENVOLVIMENTO</h1> 
 
