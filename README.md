@@ -19,8 +19,8 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-	</p>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</p>
+	
 
 <div align="center">
 
