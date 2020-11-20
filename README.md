@@ -6,6 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Otoniel-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopgss/)](https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@pedrootoniel.tech)](mailto:contato@pedrootoniel.tech)
 [![Url Badge](https://img.shields.io/badge/-pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=https://www.pedrootoniel.tech/)](https://www.pedrootoniel.tech/)
+
+<p>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -18,6 +20,7 @@
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+	</p>
 
 <div align="center">
 
