@@ -31,7 +31,7 @@
 <br/>
 <br/>
 <br/>
-<a href="https://pedrootoniel.tech/" " _blank="target""><img alt="descrição da imagem" align="right" style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
+<a href="https://pedrootoniel.tech/" " _blank="target""><img alt="descrição da imagem"  style="width:700px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 
 <br />
 <br />
