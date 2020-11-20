@@ -1,4 +1,4 @@
-<h1 align="center">Prazer, me chamo Pedro Otoniel 👋</h1> 
+<h1 align="center">Satisfação Tê-lo aqui, me chamo Pedro Otoniel, Seja bem vindo! 👋</h1> 
 
 <p align="center"><strong>Iniciei na tecnologia em 2011, atuo com Desenvolvimento Front-End utilizando JavaScript, React, Css e Html.</strong></p>
 <p align="center"><strong>Iniciei na tecnologia com projetos Open Source Gaming MuOnline, Desenvolvido com c/++ e Assembly.</strong></p>
