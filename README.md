@@ -29,9 +29,11 @@
 
 <div align="center">
 
-![Felipe Sales's github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&show_icons=true&theme=dark)
+## Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&theme=dark)](https://github.com/PedroOtoniel/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/PedroOtoniel/github-readme-stats)
+
 ## Interesses
 
 <p align="justify">Busco oportunidade em Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar os que valorizam o conhecimento. Reconhecendo a importância dos principios ágeis e da melhoria continua. Ideias só se multiplicam com colaboração e dedicação!</p>
