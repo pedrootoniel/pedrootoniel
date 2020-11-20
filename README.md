@@ -1,6 +1,6 @@
 <font color="red"><h1>EM DESENVOLVIMENTO</h1></font>
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Otoniel-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopgss/)](https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@pedrootoniel.tech)](mailto:contato@pedrootoniel.tech)
+[![Gmail Badge](https://img.shields.io/badge/-contato@pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@pedrootoniel.tech width:200px;)](mailto:contato@pedrootoniel.tech)
 [![url Badge](https://image.flaticon.com/icons/png/512/1271/1271847.png)](https://twitter.com/uri_paulo)
 
 <img alt="descrição da imagem" style="width:100px" align="left"
