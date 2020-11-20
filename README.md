@@ -29,6 +29,7 @@ src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409
 src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;">
 
 <br/>
+<br/>
 <a href="https://pedrootoniel.tech/" " _blank="target""><img alt="descrição da imagem" align="left" style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 
 
