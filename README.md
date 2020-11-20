@@ -1,4 +1,4 @@
-<font color="red"><h1>## EM APRENDIZADO</h1></font>
+<font color="red"><h1><center> EM APRENDIZADO</center></h1></font>
 
 
 <img alt="descrição da imagem" style="width:100px" align="left"
