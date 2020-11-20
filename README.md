@@ -1,5 +1,5 @@
 <font color="red"><h1>EM DESENVOLVIMENTO</h1></font>
-<h1 align="center">Prazer, me chamo Beatriz 👋</h1> 
+<h1 align="center">Prazer, me chamo Pedro Otoniel 👋</h1> 
 
 <p align="center"><strong>Iniciei na tecnologia em 2011, atuo com Desenvolvimento Front-End utilizando React e Css.</strong></p>
 
