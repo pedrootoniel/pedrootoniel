@@ -13,7 +13,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/59bf37fdd4146d36e4e9580debfa03bd77f65cbfbfa4764ab4c902048b4367a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d4342333833372e7376673f6c6f676f3d6e706d"><img src="https://camo.githubusercontent.com/59bf37fdd4146d36e4e9580debfa03bd77f65cbfbfa4764ab4c902048b4367a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d4342333833372e7376673f6c6f676f3d6e706d" alt="NPM" data-canonical-src="https://img.shields.io/badge/NPM-CB3837.svg?logo=npm" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/36b7d87bfcccf7a6f6cc809de7d873205044b3af73a42fe6c000c7389a93e5e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5961726e2d3243384542422e7376673f6c6f676f3d7961726e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/36b7d87bfcccf7a6f6cc809de7d873205044b3af73a42fe6c000c7389a93e5e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5961726e2d3243384542422e7376673f6c6f676f3d7961726e266c6f676f436f6c6f723d7768697465" alt="Yarn" data-canonical-src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&amp;logoColor=white" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"><img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a></p>
+</p>
 
 <div align="center">
 
@@ -34,9 +34,6 @@
 <a href="https://pedrootoniel.tech/" " _blank="target""><img alt="descrição da imagem" align="left" style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 
 
-<h1><font color="blue">Hello, My Name Is Pedro Otoniel<br/>Welcome to my profile.</h1></font>
-<li><font color="red">Busco oportunidade em Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar os que valorizam o conhecimento. Reconhecendo a importância dos principios ágeis e da melhoria continua. Ideias só se multiplicam com colaboração e dedicação!
-</font></li>
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
