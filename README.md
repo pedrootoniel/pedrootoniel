@@ -3,6 +3,7 @@
 <p align="center"><strong>Iniciei na tecnologia em 2011, atuo com Desenvolvimento Front-End utilizando JavaScript, React, Css e Html.</strong></p>
 <p align="center"><strong>Iniciei na tecnologia com projetos Open Source Gaming MuOnline, Linguagens como C/C++ e Assembly.</strong></p>
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 <h1 align="center">CONTATOS</h1> 
 
