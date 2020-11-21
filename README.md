@@ -43,6 +43,8 @@
 
 <img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
 
+## <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
+
 </div>
 
 <br />
