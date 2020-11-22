@@ -49,10 +49,12 @@
 <br />
 <br />
 
-<h4 align="center"> 
+<h2 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
-</h4>
+</h2>
+
 ## Features
+
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
 - [x] Cadastro de produtos
