@@ -55,9 +55,11 @@
 
 ## Features 🏢✈️🔥
 
-- [x] Cadastro de usuário
+- [ ] Cadastro de usuário
 - [x] Cadastro de cliente
-- [x] Cadastro de produtos
+- [ ] Cadastro de produtos
+- [x] Disposto aprender novas Linguagens
+- [ ] Oportunidades no mercado
 
 ## 🛠 Tecnologias 💻📱🔥📝📚
 
