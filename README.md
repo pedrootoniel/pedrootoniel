@@ -52,12 +52,12 @@
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
-### Features
+## Features
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
 - [x] Cadastro de produtos
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção dos projetos:
 
