@@ -1,15 +1,15 @@
-<h1 align="center">Satisfação Tê-lo aqui, me chamo Pedro Otoniel, Seja bem vindo! 👋</h1> 
+<h1 align="center">Satisfação Tê-lo aqui, me chamo Pedro Otoniel😉, Seja bem vindo! 👋</h1> 
 
 <p align="center"><strong>Iniciei na tecnologia em 2011, atuo com Desenvolvimento Front-End utilizando JavaScript, React, Css e Html.</strong></p>
 <p align="center"><strong>Iniciei na tecnologia com projetos Open Source Gaming MuOnline, Linguagens como C/C++ e Assembly.</strong></p>
 
-<h1 align="center">CONTATOS</h1> 
+<h1 align="center">CONTATOS📞</h1> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Otoniel-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopgss/)](https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@pedrootoniel.tech)](mailto:contato@pedrootoniel.tech)
 [![Url Badge](https://img.shields.io/badge/-pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=https://www.pedrootoniel.tech/)](https://www.pedrootoniel.tech/)
 
-<h1 align="center">EM DESENVOLVIMENTO</h1> 
+<h1 align="center">EM DESENVOLVIMENTO💻🚀📕 📗 📚</h1> 
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -25,12 +25,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 	
-## Estatísticas
+## Estatísticas 👨🔥
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/PedroOtoniel/github-readme-stats)
 
-## Interesses
+## Interesses 🏆🔥
 
 <p align="justify">Busco oportunidade em Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar os que valorizam o conhecimento. Reconhecendo a importância dos principios ágeis e da melhoria continua. Ideias só se multiplicam com colaboração e dedicação!</p>
 
@@ -50,16 +50,16 @@
 <br />
 
 <h2 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  React 🔥 Select 🚀 Em construção... 📕 📗 📒 📚  🚧
 </h2>
 
-## Features
+## Features 🏢✈️🔥
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
 - [x] Cadastro de produtos
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias 💻📱🔥📝📚
 
 As seguintes ferramentas foram usadas na construção dos projetos:
 
@@ -70,7 +70,7 @@ As seguintes ferramentas foram usadas na construção dos projetos:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-Tabela de conteúdos
+Tabela de conteúdos 📊 📈 📉 📝
 =================
 <!--ts-->
    * [Sobre](#Sobre)
