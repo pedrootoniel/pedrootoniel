@@ -65,12 +65,7 @@
 - [ ] API REST | GraphQL
 
 ## Idiomas 📚
-
-{Brazil]
-
-[US]
-
-[ENG]
+[BR]
 
 ## 🛠 Tecnologias 💻📱🔥📝📚
 
