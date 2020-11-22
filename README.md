@@ -59,7 +59,10 @@
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 - [x] Disposto aprender novas Linguagens
-- [ ] Oportunidades no mercado
+- [x] Front-End HTML 5, CSS 3, JAVASCRIPT, JQUERY, BOOTSTRAP,  REACT. 
+- [ ] Back-End NodeJS. React Native | PWA
+- [ ] MySQL | MongoDB | PostgreSQL | SQLite
+- [ ] API REST | GraphQL
 
 ## 🛠 Tecnologias 💻📱🔥📝📚
 
