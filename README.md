@@ -64,7 +64,7 @@
 - [ ] MySQL | MongoDB | PostgreSQL | SQLite
 - [ ] API REST | GraphQL
 
-## Idiomas 📚flag: Brazil
+## Idiomas 📚[1F1E7 1F1F7]
 
 ## 🛠 Tecnologias 💻📱🔥📝📚
 
