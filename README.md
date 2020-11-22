@@ -64,6 +64,8 @@
 - [ ] MySQL | MongoDB | PostgreSQL | SQLite
 - [ ] API REST | GraphQL
 
+## Idiomas 📚flag: Brazil
+
 ## 🛠 Tecnologias 💻📱🔥📝📚
 
 As seguintes ferramentas foram usadas na construção dos projetos:
