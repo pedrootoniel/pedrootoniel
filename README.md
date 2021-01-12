@@ -38,7 +38,7 @@
 
 <div align="center">
 	
-![Visitor Badge]((https://visitor-badge.laobi.icu/badge?page_id=PedroOtoniel.visitor-badge)
+![Visitor Badge]((https://visitor-badge.laobi.icu/badge?page_id=PedroOtoniel)
 
 <img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
 <img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/EkDWs1r.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
