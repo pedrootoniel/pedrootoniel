@@ -5,10 +5,27 @@
 
 <h1 align="center">CONTATOS  📞</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Otoniel-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulopgss/)](https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@pedrootoniel.tech)](mailto:contato@pedrootoniel.tech)
-[![Url Badge](https://img.shields.io/badge/-pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=https://www.pedrootoniel.tech/)](https://www.pedrootoniel.tech/)
-[![INSTAGRAM](https://img.shields.io/badge/-pedrootoniel.tech-292929?style=flat-square&logo=Gmail&logoColor=white&link=https://www.pedrootoniel.tech/)](https://www.pedrootoniel.tech/)
+<p align="left">
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:contato@pedrootoniel.tech" alt="E-mail">
+  <img src="https://img.shields.io/badge/-Hotmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@pedrootoniel.tech" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5562999318632&text=Olá%20Pedro Otoniel,%20tudo%20bem?" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562999318632text=Olá%20Pedro Otoniel,%20tudo%20bem?"/></a>
+  <a href="https://www.instagram.com/biagivisiez/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bia.givisiez/"/></a>
+  <a href="https://www.twitter.com/BeatrizGivisiez" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/BeatrizGivisiez" /></a>
+  
+  <a href="https://www.github.com/BeatrizGivisiez" alt="Github">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/BeatrizGivisiez" /></a>
+</p>
+
+<p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
 
 <h1 align="center">EM DESENVOLVIMENTO 💻🚀📕 📗 📚</h1> 
 
