@@ -1,7 +1,7 @@
-<h1 align="center">Satisfação Tê-lo aqui, me chamo Pedro Otoniel 😉, Seja bem vindo! 👋</h1> 
-
-<p align="center"><strong>Iniciei na tecnologia em 2011, atuo com Desenvolvimento Front-End utilizando JavaScript, React, Css e Html.</strong></p>
-<p align="center"><strong>Iniciei na tecnologia com projetos Open Source Gaming MuOnline, Linguagens como C/C++ e Assembly.</strong></p>
+<h1 align="center">Hi , I'm Pedro Otoniel Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+React+Developer&center=true&width=500&height=50"></a>
+</p>
 
 <h1 align="center">CONTATOS  📞</h1> 
 
