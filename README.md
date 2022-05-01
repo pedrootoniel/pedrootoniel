@@ -55,7 +55,7 @@
 	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PedroOtoniel)
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 <img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/EkDWs1r.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
 
 ## <p align="center">NÃO TRATE COMO CONSTANTE QUEM TE TRATA COMO VARIÁVEL</p>
