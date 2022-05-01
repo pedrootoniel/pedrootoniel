@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+ReactNative+Developer;Senior+Reactjs+Developer;Pleno+Php+Developer;Nodejs+MySQL+Developer&center=true&width=500&height=50"></a>
 </p>
 
-<h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>CONTATOS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
+<h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> CONTATOS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
 
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
@@ -55,7 +55,7 @@
 	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PedroOtoniel)
 
-<img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/XUaV4tV.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 <img alt="descrição da imagem" marin-left="10px"  style="width:600px" src="https://i.imgur.com/EkDWs1r.png" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;">
 
 ## <p align="center">NÃO TRATE COMO CONSTANTE QUEM TE TRATA COMO VARIÁVEL</p>
