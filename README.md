@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> CONTATOS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
-
+<h3>Web Design | Front End | HTML | CSS | JavaScript | React | TypeScript | Redux | WordPress | WooCommerce | UX | UI Avançado | CSS Avançado| Tipografia | NPM | SASS | Bootstrap 4 | Adobe XD</h3>
 <h3>🛠  Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS | NextJS
@@ -62,51 +62,3 @@
 <h2 align="center"> 
 	🚧 React 🔥 Select 🚀 Em construção... 📕 📗 📒 📚 🚧
 </h2>
-
-## Features 🏢✈️🔥
-
-- [ ] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-- [x] Disposto aprender novas Linguagens
-- [x] Front-End HTML 5, CSS 3, JAVASCRIPT, JQUERY, BOOTSTRAP,  REACT. 
-- [ ] Back-End NodeJS. React Native | PWA
-- [ ] MySQL | MongoDB | PostgreSQL | SQLite
-- [ ] API REST | GraphQL
-
-## Idiomas 📚
-[BR]
-
-## 🛠 Tecnologias 💻📱🔥📝📚
-
-As seguintes ferramentas foram usadas na construção dos projetos:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-
-Tabela de conteúdos 📊 📈 📉 📝
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
-# Editor.md
-
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
