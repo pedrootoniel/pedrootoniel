@@ -10,6 +10,13 @@
 <h3 align="center">Web Design | Front End | HTML | CSS | JavaScript | React | TypeScript | Redux | WordPress | WooCommerce | UX | UI Avançado | CSS Avançado| Tipografia | NPM | SASS | Bootstrap 4 | Adobe XD< </h3>
 <h3>🛠  Tech Stack</h3>
 
+<h3>👨🏻‍💻  About Me</h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Information Systems Student.
+- 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming - Rei das Jóias - Indeal](https://gxgaming.com.br/).
+- 🎸 &nbsp; Studying and practicing music as hobbies.
+
 - 💻 &nbsp; ReactJS | NextJS
 - 📱  &nbsp; React Native
 - 🖥  &nbsp; NodeJS | NestJS | Typescript
@@ -40,7 +47,7 @@
 ## Estatísticas 💻🚀🔥📚
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/PedroOtoniel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrootoniel&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
 ## Interesses 🏆🔥📚💻🚀
 
