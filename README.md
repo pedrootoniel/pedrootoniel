@@ -22,6 +22,8 @@
 - 💻 &nbsp; ReactJS | NextJS
 - 📱  &nbsp; React Native
 - 🖥  &nbsp; NodeJS | NestJS | Typescript
+- 💻 &nbsp; Php | MySQL
+- 💻 &nbsp; C/C++ | MSSQLSERVER
 
 <h3> 🤝🏻  Connect with Me </h3>
 
