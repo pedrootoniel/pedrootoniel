@@ -5,7 +5,7 @@
 <h2 align="center"> 
 	🚀Software Engineer 📕 📗 📒 📚 🚧
 </h2>
-<h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> MINHAS EXPERIÊNCIAS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
+<h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
 
 <h3 align="center">Web Design | Front End | HTML | CSS | JavaScript | React | TypeScript | Redux | WordPress | WooCommerce | UX | UI Avançado | CSS Avançado| Tipografia | NPM | SASS | Bootstrap 4 | Adobe XD< </h3>
 <h3>🛠  Tech Stack</h3>
