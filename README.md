@@ -5,26 +5,20 @@
 
 <h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> CONTATOS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
 
-<p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
-</p>
+<h3>🛠  Tech Stack</h3>
 
-<p align="left">
-  <a href="mailto:contato@pedrootoniel.tech" alt="E-mail">
-  <img src="https://img.shields.io/badge/-Email-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@pedrootoniel.tech" /></a>
-  <a href="https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-otoniel-santos-1a969619a/" /></a>
-  <a href="https://api.whatsapp.com/send?phone=5562999318632&text=Olá%20Pedro Otoniel,%20tudo%20bem?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-3CB371?style=flat-square&labelColor=3CB371&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562999318632text=Olá%20Pedro Otoniel,%20tudo%20bem?"/></a>
-  <a href="https://www.instagram.com/supreminhoon/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/supreminhoon/"/></a>
-  <a href="https://www.github.com/pedrootoniel" alt="Github">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/pedrootoniel" /></a>
-</p>
+- 💻 &nbsp; ReactJS | NextJS
+- 📱  &nbsp; React Native
+- 🖥  &nbsp; NodeJS | NestJS | Typescript
+- 💻  &nbsp; PHP | MySQL | C/C++
+
+<h3> 🤝🏻  Connect with Me </h3>
+
+* [LinkedIn](https://www.linkedin.com/in/jefferson-patr%C3%ADcio-03a17b180/](https://www.linkedin.com/in/pedro-otoniel/ )
 
 <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
 
-<h1 align="center">EM DESENVOLVIMENTO 💻🚀📕 📗 📚</h1> 
+<h1 align="center">💻🚀📕 📗 📚</h1> 
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
