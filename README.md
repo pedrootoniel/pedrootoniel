@@ -27,7 +27,7 @@
 
 <h3> 🤝🏻  Connect with Me </h3>
 
-* [LinkedIn](https://www.linkedin.com/in/jefferson-patr%C3%ADcio-03a17b180](https://www.linkedin.com/in/pedro-otoniel/ )
+* [LinkedIn](https://www.linkedin.com/in/pedro-otoniel/ )
 
 <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
 
