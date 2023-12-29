@@ -9,7 +9,7 @@
 
 <h3 align="center">Web Design | Front End | HTML | CSS | JavaScript | React | TypeScript | Redux | WordPress | WooCommerce | UX | UI Avançado | CSS Avançado| Tipografia | NPM | SASS | Bootstrap 4 | Adobe XD< </h3>
 	
-<div align="center"> 	
+	
 <h3>👨🏻‍💻  About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -23,7 +23,7 @@
 - 📱  &nbsp; React Native
 - 🖥  &nbsp; NodeJS | NestJS | Typescript
 - 💻  &nbsp; PHP | MySQL | C/C++
-</div>
+
 <h3> 🤝🏻  Connect with Me </h3>
 
 * [LinkedIn](https://www.linkedin.com/in/pedro-otoniel/)
