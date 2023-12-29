@@ -2,22 +2,24 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+ReactNative+Developer;Senior+Reactjs+Developer;Pleno+Php+Developer;Nodejs+MySQL+Developer&center=true&width=500&height=50"></a>
 </p>
-
+<h2 align="center"> 
+	🚀Desenvolvimento... 📕 📗 📒 📚 🚧
+</h2>
 <h1 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> CONTATOS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h1> 
-<p>Web Design</p> 
-<p>Front End</p>
-<p>HTML</p>
-<p>CSS</p>
-<p>JavaScript</p>
-<p>React</p>
-<p>TypeScript</p>
-<p>Redux</p>
-<p>WordPress</p>
-<p>WooCommerce</p>
-<p>UX | UI Avançado</p>
-<p>CSS Avançado</p>
-<p>Tipografia</p>
-<p>NPM | SASS | Bootstrap 4 | Adobe XD</p>
+<p>-Web Design</p> 
+<p>-Front End</p>
+<p>-HTML</p>
+<p>-CSS</p>
+<p>-JavaScript</p>
+<p>-React</p>
+<p>-TypeScript</p>
+<p>-Redux</p>
+<p>-WordPress</p>
+<p>-WooCommerce</p>
+<p>-UX | UI Avançado</p>
+<p>-CSS Avançado</p>
+<p>-Tipografia</p>
+<p>-NPM | SASS | Bootstrap 4 | Adobe XD</p>
 
 <h3>🛠  Tech Stack</h3>
 
@@ -73,6 +75,3 @@
 <br />
 <br />
 
-<h2 align="center"> 
-	🚧 React 🔥 Select 🚀 Em construção... 📕 📗 📒 📚 🚧
-</h2>
