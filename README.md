@@ -45,8 +45,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 	
 ## Estatísticas 💻🚀🔥📚
+<p>
+	
+![Github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5) 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PedroOtoniel&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+</p>
+</br>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrootoniel&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
 ## Interesses 🏆🔥📚💻🚀
