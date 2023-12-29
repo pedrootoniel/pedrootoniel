@@ -32,8 +32,8 @@
 <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
 
 <img align="center" src="https://i.imgur.com/38A7Lib.jpg"/>
+
 <div align="center">  
-	
  <img 
        align="center" 
        alt="NodeJS" 
