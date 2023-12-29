@@ -16,7 +16,6 @@
 - 🎓 &nbsp; Information Systems Student.
 - 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming - Rei das Jóias - Indeal](https://gxgaming.com.br/).
 - 🎸 &nbsp; Studying and practicing music as hobbies.
-- </h3>
 
 <h3>🛠  Tech Stack</h3>
 - 💻 &nbsp; ReactJS | NextJS
