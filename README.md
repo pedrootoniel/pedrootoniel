@@ -17,15 +17,15 @@
 - 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming - Rei das Jóias - Indeal](https://gxgaming.com.br/).
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
-<h3> 🛠  Tech Stack </h3>
+<h3>🛠  Tech Stack</h3>
+
 - 💻 &nbsp; ReactJS | NextJS
 - 📱  &nbsp; React Native
 - 🖥  &nbsp; NodeJS | NestJS | Typescript
-- 💻 &nbsp; PHP | MySQL | C/C++
 
 <h3> 🤝🏻  Connect with Me </h3>
 
-* [LinkedIn](https://www.linkedin.com/in/pedro-otoniel/)
+* [LinkedIn](https://www.linkedin.com/in/jefferson-patr%C3%ADcio-03a17b180](https://www.linkedin.com/in/pedro-otoniel/ )
 
 <p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
 
