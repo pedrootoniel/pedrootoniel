@@ -52,6 +52,7 @@
 </p>
 </br>
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrootoniel&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
 ## Interesses 🏆🔥📚💻🚀
