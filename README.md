@@ -17,11 +17,11 @@
 - 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming - Rei das Jóias - Indeal](https://gxgaming.com.br/).
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
-<h3>🛠  Tech Stack</h3>
+<h3> 🛠  Tech Stack </h3>
 - 💻 &nbsp; ReactJS | NextJS
 - 📱  &nbsp; React Native
 - 🖥  &nbsp; NodeJS | NestJS | Typescript
-- 💻  &nbsp; PHP | MySQL | C/C++
+- 💻 &nbsp; PHP | MySQL | C/C++
 
 <h3> 🤝🏻  Connect with Me </h3>
 
