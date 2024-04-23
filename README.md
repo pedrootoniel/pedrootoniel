@@ -15,7 +15,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Information Systems Student.
 - 🎓 &nbsp; Postgraduate Software Engineer.
-- 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming - Rei das Jóias - Indeal](https://gxgaming.com.br/).
+- 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming](https://gxgaming.com.br/) [OutletCoutinho](https://outletcoutinho.com.br/) [CoutinhoJoias](https://coutinhojoias.com.br/)
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
 <h3>🛠  Tech Stack</h3>
