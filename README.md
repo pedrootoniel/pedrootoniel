@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Pedro Otoniel Santos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Junior+ReactNative+Developer;Senior+Reactjs+Developer;Pleno+Php+Developer;Nodejs+MySQL+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SoftWare+Engineering+Student;Senior+ReactNative+Developer;Senior+Reactjs+Developer;Pleno+Php+Developer;Nodejs+MySQL+Developer;C# Deeveloper&center=true&width=500&height=50"></a>
 </p>
 <h2 align="center"> 
 	🚀Software Engineer 📕 📗 📒 📚 🚧
@@ -15,7 +15,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Information Systems Student.
 - 🎓 &nbsp; Postgraduate Software Engineer.
-- 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming](https://gxgaming.com.br/) [OutletCoutinho](https://outletcoutinho.com.br/) [Cosméticos UzeMake](http://uzemake.com.br/)  [Meu site](https://pedrootoniel.tech/)
+- 💼 &nbsp; Working as a React Native, ReactJs Developer at [GxGaming](https://gxgaming.com.br/) [OutletCoutinho](https://outletcoutinho.com.br/) [ZeebyteSoft](http://zeebytesoft.com/)  [Meu site](https://pedrootoniel.tech/)
 - 🎸 &nbsp; Studying and practicing music as hobbies.
 
 <h3>🛠  Tech Stack</h3>
