@@ -188,11 +188,11 @@ Developing enterprise software focused on scalability, performance and user expe
 
 # 🌎 Connect with Me
 
-💼 LinkedIn
+💼 LinkedIn https://www.linkedin.com/in/pedro-otoniel-dev-9b1857344/
 
-📧 Email
+📧 Email contato@zeebytesoft.com
 
-🌐 Portfolio
+🌐 Portfolio https://zeebytesoft.com/
 
 ---
 
