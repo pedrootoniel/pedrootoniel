@@ -158,9 +158,9 @@ Developing enterprise software focused on scalability, performance and user expe
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroOtoniel&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrootoniel&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOtoniel&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrootoniel&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -170,7 +170,7 @@ Developing enterprise software focused on scalability, performance and user expe
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PedroOtoniel&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pedrootoniel&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -180,7 +180,7 @@ Developing enterprise software focused on scalability, performance and user expe
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroOtoniel&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrootoniel&theme=tokyo-night"/>
 
 </p>
 
